@@ -31,7 +31,3 @@ I welcome contributions from the community to enhance the functionality and desi
 - Make your changes and ensure the code passes any existing tests.
 - Test your changes locally to ensure they work as expected.
 - Submit a pull request with a clear description of your changes and why they're necessary.
-
-# License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
